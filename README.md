@@ -1,4 +1,4 @@
 # my-school-demo
 this is my first repository.
 <br>
-Author-sandiplama
+Author-sandiplama(devloper)
